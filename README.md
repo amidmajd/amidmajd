@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amid Majd
+Hi👋 My name is Amid Majd
 =================================================================================================================================
 
 I'm a Software Engineer
@@ -7,11 +7,11 @@ I'm a Software Engineer
 A Passionate Software Engineer and Web Developer who is also interested in Big Data and Machine Learning.
 
 * 🖥️  See my portfolio at [AmidMajd.ir](http://amidmajd.ir)
-* ✉️  You can contact me at [amidmajd@gmail.com](mailto:amidmajd@gmail.com)
-* 🚀  I'm currently working on [Contented](http://getcontented.io)
+* ✉️  You can contact me at [amidmajd@gmail.com](mailto:amidmajd@gmail.com) or at 
+* 🚀  I'm currently working on [Contented](https://getcontented.io)
+* ⚡  Other Links: &nbsp; <a href="https://www.github.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="24" height="24" /></a> <a href="https://gitlab.com/amidmj" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="24" height="24" /></a> <a href="https://gitlab.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="24" height="24" /></a> <a href="https://www.linkedin.com/in/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,14 +30,3 @@ A Passionate Software Engineer and Web Developer who is also interested in Big D
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amid_majd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/amidmajd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amidmajd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
