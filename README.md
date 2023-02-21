@@ -9,7 +9,7 @@ A Passionate Software Engineer and Web Developer who is also interested in Big D
 * 🖥️  See my portfolio at [AmidMajd.ir](http://amidmajd.ir)
 * ✉️  You can contact me at [amidmajd@gmail.com](mailto:amidmajd@gmail.com) or at 
 * 🚀  I'm currently working on [Contented](https://getcontented.io)
-* ⚡  Other Links: &nbsp; <a href="https://www.github.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="22" height="22" /></a> <a href="https://gitlab.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="22" height="22" /></a> <a href="https://gitlab.com/amidmj" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="22" height="22" /></a> <a href="https://www.linkedin.com/in/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" /></a>
+* ⚡  Other Links : &nbsp; </a> <a href="https://gitlab.com/amidmajd" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="22" height="22" /></a> <a href="https://www.linkedin.com/in/amidmajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" /></a> &nbsp; &nbsp; Corporation Gitlab Account : </a> <a href="https://gitlab.com/amidmj" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="22" height="22" />
 
 ### Skills
 
